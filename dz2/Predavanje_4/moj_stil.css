@@ -1,0 +1,92 @@
+body{
+margin-left: 25%;
+margin-right: 25%;
+}
+
+h1{
+font-family:"Georgia";
+font-size: 64px;
+text-align: center;
+color:ghostwhite;
+background-color: black;
+margin: 0;
+}
+
+h2{
+background-color: black;
+font-family: "verdana";
+font-size: 18px;
+text-align: center;
+color: #00ccff;
+margin: 0;
+line-height: 50px;
+}
+
+
+
+ul{
+    
+background-color: black;
+text-align: center;
+}
+
+
+ul li{
+display: inline;
+padding: 20px;
+}
+
+
+a{
+text-decoration: none;
+color: #00ccff;
+font-family: "verdana";
+font-size: 12px;
+}
+
+
+.datum{
+font-family: "geneva";
+font-size: 10px;
+text-align: right;
+margin: 0;
+}
+
+
+p{
+font-family:"geneva";
+font-size: 12px;
+text-align: justify;
+line-height: 16px;
+background-color: #00ccff;
+text-decoration-color:black;
+padding: 10px;
+margin: 0;
+}
+
+
+table{
+font-family: "verdana";
+font-size: 12px;
+color: #00ccff;
+background-color: black;
+}
+
+
+table th{
+padding: 20px;
+font-family: "verdana";
+}
+
+
+table td{
+border: 1px solid #fff;
+text-align: right;
+font-family: "verdana";
+}
+
+
+.oznaka{
+background-color: #00ccff;
+color: black;
+}
